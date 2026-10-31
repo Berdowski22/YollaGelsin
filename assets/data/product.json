@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık Pro",
+    "description": "Aktif gürültü engelleme özellikli, 30 saat pil ömürlü kablosuz kulak üstü kulaklık.",
+    "price": 2499.90,
+    "category": "Ses",
+    "image": "assets/images/headphones.png",
+    "rating": 4.7,
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat S2",
+    "description": "Kalp ritmi, uyku takibi ve GPS destekli, 5 ATM suya dayanıklı akıllı saat.",
+    "price": 3299.00,
+    "category": "Giyilebilir",
+    "image": "assets/images/smartwatch.png",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 3,
+    "name": "Taşınabilir Hoparlör Mini",
+    "description": "Suya dayanıklı, 360 derece ses veren kompakt Bluetooth hoparlör.",
+    "price": 1199.50,
+    "category": "Ses",
+    "image": "assets/images/speaker.png",
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "name": "Mekanik Klavye K75",
+    "description": "Hot-swap switch destekli, RGB aydınlatmalı 75% mekanik klavye.",
+    "price": 1849.00,
+    "category": "Bilgisayar",
+    "image": "assets/images/keyboard.png",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": 5,
+    "name": "Kablosuz Mouse M3",
+    "description": "Ergonomik tasarım, sessiz tıklama ve 12 ay pil ömrü sunan kablosuz mouse.",
+    "price": 649.90,
+    "category": "Bilgisayar",
+    "image": "assets/images/mouse.png",
+    "rating": 4.4,
+    "stock": 60
+  },
+  {
+    "id": 6,
+    "name": "Tablet Tab 10",
+    "description": "10.4 inç ekranlı, 128 GB depolamalı, ince gövdeli Android tablet.",
+    "price": 7999.00,
+    "category": "Tablet",
+    "image": "assets/images/tablet.png",
+    "rating": 4.2,
+    "stock": 9
+  },
+  {
+    "id": 7,
+    "name": "Powerbank 20000 mAh",
+    "description": "65W hızlı şarj destekli, iki USB-C portlu yüksek kapasiteli powerbank.",
+    "price": 999.00,
+    "category": "Aksesuar",
+    "image": "assets/images/powerbank.png",
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "name": "Web Kamerası HD",
+    "description": "1080p çözünürlük, otomatik odaklama ve çift mikrofonlu web kamerası.",
+    "price": 899.90,
+    "category": "Bilgisayar",
+    "image": "assets/images/webcam.png",
+    "rating": 4.1,
+    "stock": 22
+  }
+]
